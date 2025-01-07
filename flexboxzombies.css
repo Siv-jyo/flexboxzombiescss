@@ -1,0 +1,38 @@
+body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+    font-style: initial;
+  }
+  
+ h4{
+    color: white;
+    text-align: center;
+ }
+.outer{
+    height: 800px;
+    width: 1000px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+a{
+   margin: 2px soild ;background-color: black;
+   padding: 0%;
+   color: white;
+   text-decoration: none;
+  
+
+}
+
+.inner{
+    height: 300px;
+    width: 400px;
+    background-color:red;
+}
+
